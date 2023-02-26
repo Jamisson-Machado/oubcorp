@@ -156,7 +156,7 @@ html body{
     .call{
         background: url(web2.jpg);
         -webkit-background-size: cover;
-        background-attachment: fixed;
+        -webkit-background-attachment: fixed;
         background-position: top center;
         background-repeat: no-repeat;
         width: 100%;

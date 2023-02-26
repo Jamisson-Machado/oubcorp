@@ -153,6 +153,11 @@ html body{
 /*MEDIAS QUARYES*/
 
 @media only screen and (max-width: 800px) {
+    .call{
+        background: url(web2.jpg);
+    }
+}
+@media only screen and (max-width: 800px) {
     
     .card{
         width: 50%;

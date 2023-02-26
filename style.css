@@ -114,7 +114,7 @@ html body{
 }
 
 .call{
-  -webkit-background: url(web1.jpg);
+  background: url(web1.jpg);
     -webkit-background-size: cover;
    -webkit-background-attachment: fixed;
     -webkit-background-position: top;

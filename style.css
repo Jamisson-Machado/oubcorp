@@ -30,15 +30,15 @@ html body{
 }
 /*fontes*/
 .font-urb7{
-    font-family: 'arial', sans-serif;
+    font-family: 'urban', sans-serif;
     font-weight: 700;
 }
 .font-urb6{
-    font-family: 'arial', sans-serif;
+    font-family: 'urban', sans-serif;
     font-weight: 600;
 }
 .font-urb4{
-    font-family: 'arial', sans-serif;
+    font-family: 'urban', sans-serif;
     font-weight: 400;
 }
 /*display*/
@@ -156,7 +156,7 @@ html body{
     .call{
         background: url(web2.jpg);
         -webkit-background-size: cover;
-        -webkit-background-attachment: fixed;
+        webkit-background-attachment: fixed;
         background-position: top center;
         background-repeat: no-repeat;
         max-width: 1919px;
